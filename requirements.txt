@@ -1,0 +1,14 @@
+fastapi
+Pillow
+torch
+torchvision
+torchaudio
+python-multipart
+uvicorn
+fastai
+fastdownload
+werkzeug
+starlette
+jinja2
+passlib[bcrypt]
+python-jose
